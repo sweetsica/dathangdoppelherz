@@ -1,5 +1,5 @@
 
-# Hoàng Hải Mobile Analytics
+# Doppelherz Việt Nam - S-ShortUrl
 
 Công cụ theo dõi hiệu quả marketing dựa trên đường dẫn truy cập và các shortlink.
 Được kết hợp các công cụ tuỳ chỉnh giúp dễ dàng theo dõi các số liệu.
@@ -10,6 +10,6 @@ Công cụ theo dõi hiệu quả marketing dựa trên đường dẫn truy c�
 - [@sweetsica](https://github.com/sweetsica)
 
   
-![Logo](https://hoanghaimobile.jp/images/logo.png)
+![Logo](https://dathangdoppelherz.online/assets/logo.png)
 
     
