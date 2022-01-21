@@ -143,7 +143,7 @@
     </div> <!-- content -->
 
     <footer class="footer">
-        2021 © Sweetsica <span class="d-none d-sm-inline-block"> - Hoàng Hải Company</span>
+        2022 © Sweetsica <span class="d-none d-sm-inline-block"> - Doppelherz Việt Nam</span>
     </footer>
 
 </div>

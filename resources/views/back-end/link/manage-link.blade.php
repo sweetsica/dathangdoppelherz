@@ -187,7 +187,7 @@
                                                 <th>{{$row->total_visitors_count}}</th>
                                                 <th>{{ $row->yesterday_visitors_count }}</th>
                                                 <td><a href="{{$row->ShortLink->code}}">{{$_SERVER['SERVER_NAME']}}/{{$row->ShortLink->code}}</a></td>
-                                                <td><a href="{{route('shortlink.delete',['id'=>$row->id])}}" data-method="delete" data-confirm="Are you sure to delete this inventory?">-- Xoá --</a></td>
+{{--                                                <td><a href="{{route('shortlink.delete',['id'=>$row->id])}}" data-method="delete" data-confirm="Are you sure to delete this inventory?">-- Xoá --</a></td>--}}
                                                 <th>{{ $row->created_at->format('d/m/Y') }}</th>
                                             </tr>
                                         @endforeach
